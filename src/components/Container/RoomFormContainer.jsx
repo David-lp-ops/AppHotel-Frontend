@@ -1,4 +1,3 @@
-// Container Component
 import React, { useState } from "react";
 import RoomFormView from "../view/RoomFormView";
 
