@@ -1,2 +1,2 @@
-# AppHotel-Frontend
-AppHotel Frontend with react and tailwind css
+# app-cita
+App de administracion de Reservaciones de Hotel
