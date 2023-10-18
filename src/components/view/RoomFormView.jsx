@@ -1,4 +1,3 @@
-// View Component
 import React from "react";
 import Error from "../Error";
 
